@@ -15,7 +15,7 @@ body p {
 
 /* HEADER STARTS */
 .big-wrapper {
-  width: 100%;
+  /* width: 100%; */
   height: 100vh;
   padding: 1px;
   background-image: url(../images/banner01.jpg);
